@@ -1,4 +1,9 @@
 # web
+自己训练的一款垃圾分类app，数据加载，模型定义输出，训练出属于自己的模型。本项目用到了 
+TensorFlow：js进行机器学习开发库
+Pipcook：机器学习和前端交互的跨领域工具包，半成品模具 http://ai-sample.oss-cn-hangzhou.aliyuncs.com/pipcook/models/mobilenet/web_model/model.json
+parcel：构建前端页面
+前端框架：react+antd
 
 ## Project setup
 ```
