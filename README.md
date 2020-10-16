@@ -3,7 +3,8 @@
 
 ```
 TensorFlow：js进行机器学习开发库
-Pipcook：机器学习和前端交互的跨领域工具包，半成品模具 http://ai-sample.oss-cn-hangzhou.aliyuncs.com/pipcook/models/mobilenet/web_model/model.json
+Pipcook：机器学习和前端交互的跨领域工具包
+半成品模具 http://ai-sample.oss-cn-hangzhou.aliyuncs.com/pipcook/models/mobilenet/web_model/model.json
 parcel：构建前端页面
 前端框架：react+antd
 ```
