@@ -1,0 +1,23 @@
+{
+  "name": "waste_sorting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel app/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.4.0",
+    "@tensorflow/tfjs-node": "^2.4.0",
+    "antd": "^4.6.5",
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  },
+  "browserslist": ["last 1 Chrome version"]
+}
